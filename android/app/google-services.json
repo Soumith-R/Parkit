@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "550083797782",
+    "project_id": "smartpark-4ie4q1",
+    "storage_bucket": "smartpark-4ie4q1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550083797782:android:79b72f14ba1a2b6f43e637",
+        "android_client_info": {
+          "package_name": "com.mycompany.smartpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550083797782-io8lti0ge69m0ah6ehmgqt9d3k1pnr11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.smartpark",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "550083797782-71r5krcb387eub3p142lj9mgn1s38nk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUR-EmdinQOMZLWBaDRjDr7K531lveXbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550083797782-71r5krcb387eub3p142lj9mgn1s38nk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550083797782-0ks6s1do0g2mllm4oe6fo5cjsbgq2tef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.smartpark"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550083797782:android:ded03c90a7c36cdb43e637",
+        "android_client_info": {
+          "package_name": "com.sow.smartpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550083797782-iv9p39q8386ae5kicaogjp4ta2brcitq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sow.smartpark",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "550083797782-71r5krcb387eub3p142lj9mgn1s38nk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUR-EmdinQOMZLWBaDRjDr7K531lveXbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550083797782-71r5krcb387eub3p142lj9mgn1s38nk9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550083797782-0ks6s1do0g2mllm4oe6fo5cjsbgq2tef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.smartpark"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
